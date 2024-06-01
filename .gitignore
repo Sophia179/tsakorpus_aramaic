@@ -2,16 +2,11 @@
 **.idea/**
 txt2json/corpus/json/**
 txt2json/corpus/txt/**
-corpus/**
-src_convertors/corpus/**
-search/media/**
 search/tmp/**
 search/img/**
-search/corpus_html/**
 src_convertors/error.log
 src_convertors/error_*.log
 docs_doxygen/**
-search/web_app/templates/dictionaries/**
 .Python
 env/
 build/
